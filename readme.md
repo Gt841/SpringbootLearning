@@ -4,6 +4,11 @@ Then I decided to create a code respository to record my learning journey.
 
 I hope this respository can help other people to learn Springboot.
 
+## 1.create Springboot program
+If you use IDEA,you could use the Spring Initalizr to creat a SpringBoot program.
+If you select Spring Web as dependency,it will add that denpendency in `pom.xml` 
+automatically. 
+
 ---
 # SpringBoot框架学习
 最近我在`CSDN论坛`上看了一些关于SpringBoot的文章。
