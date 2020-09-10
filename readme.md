@@ -6,8 +6,7 @@ I hope this respository can help other people to learn Springboot.
 
 ## 1.create Springboot program
 If you use IDEA,you could use the `Spring Initalizr` to creat a SpringBoot program.
-If you select Spring Web as dependency,it will add that denpendency in `pom.xml` 
-automatically. 
+If you select Spring Web as dependency,it will add that denpendency in `pom.xml` automatically. 
 
 ---
 # SpringBoot框架学习
@@ -18,4 +17,4 @@ automatically.
 
 ## 1.创建SpringBoot项目
 如果你使用的是开发工具是Idea,你可以使用`Spring Initalizr`工具创建Spring Boot项目.
-
+如果构建项目时选择Spring Web,则在生成的新项目中的`pom.xml`文件中会自动添加Web应用所需依赖.
