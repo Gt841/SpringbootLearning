@@ -18,3 +18,5 @@ If you select Spring Web as dependency,it will add that denpendency in `pom.xml`
 ## 1.创建SpringBoot项目
 如果你使用的是开发工具是Idea,你可以使用`Spring Initalizr`工具创建Spring Boot项目.
 如果构建项目时选择Spring Web,则在生成的新项目中的`pom.xml`文件中会自动添加Web应用所需依赖.
+## 2.基础使用
+编写简单的接口--`controller内的HelloWorldcontroller`
