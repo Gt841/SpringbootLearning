@@ -16,6 +16,7 @@
 
 <c:if test="${not empty errorMsg}">
     <h1>错误信息：${errorMsg}</h1>
+
 </c:if>
 </body>
 </html>
