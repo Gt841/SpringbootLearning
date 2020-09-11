@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-
+//Freemarker模板引擎渲染WEB视图
 @Controller
 @RequestMapping("/freemarker")
 public class FreeMarkerController {
