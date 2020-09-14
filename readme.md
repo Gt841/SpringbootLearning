@@ -25,4 +25,6 @@ If you select Spring Web as dependency,it will add that denpendency in `pom.xml`
 2. JSP渲染web视图
 3. 全局统一捕获异常
 ## 4.数据访问
-整合使用mybatis
+1. 使用JdbcTemplate
+2. 使用Mybatis
+3. 使用pageHelper分页插件
