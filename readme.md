@@ -20,3 +20,9 @@ If you select Spring Web as dependency,it will add that denpendency in `pom.xml`
 如果构建项目时选择Spring Web,则在生成的新项目中的`pom.xml`文件中会自动添加Web应用所需依赖.
 ## 2.基础使用
 编写简单的接口--`controller内的HelloWorldcontroller`
+## 3.web页面的简单渲染
+1. Freemarker模板引擎渲染
+2. JSP渲染web视图
+3. 全局统一捕获异常
+## 4.数据访问
+整合使用mybatis
