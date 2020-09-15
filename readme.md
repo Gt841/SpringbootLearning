@@ -28,3 +28,6 @@ If you select Spring Web as dependency,it will add that denpendency in `pom.xml`
 1. 使用JdbcTemplate
 2. 使用Mybatis
 3. 使用pageHelper分页插件
+## 5.事务管理
+1. springboot事务管理
+2. 分布式事务管理
